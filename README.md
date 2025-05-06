@@ -29,4 +29,4 @@
             <div class="info">Información de la imagen 5</div>
         </div>
     </div>
-    <script src="script.js"></script>
+    <script src="script1.js"></script>
